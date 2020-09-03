@@ -1,0 +1,234 @@
+.Borde
+{
+
+	position: absolute;
+	height: 30%;
+    width: 70%;
+    background: #DD9C3CB0;
+    left: 5%;
+    top: 10%;
+    border-radius: 25px;
+
+}
+
+.img
+{
+	position: absolute;
+	height: 30%;
+    width: 70%;
+    background: #DD9C3CB0;
+    left: 5%;
+    top: 45%;
+    border-radius: 25px;
+
+}
+
+
+
+
+
+
+.Samaniego
+{
+	position: absolute;
+	height: 10%;
+    width: 10%;
+    background: #DD9C3CB0;
+    left: 28%;
+    top: 170%;
+    border-radius: 25px;
+}
+
+.s1
+{
+	background: url(1.jpg);
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 28%;
+    top: 170%;
+    border-radius: 25px;
+    opacity: 0;
+}
+
+.s1:hover
+{
+	background: url(1.jpg);
+	visibility: visible;
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 28%;
+    top: 170%;
+    border-radius: 25px;
+    opacity: 1;
+
+
+}
+
+
+
+
+
+
+
+.Cali
+{
+	position: absolute;
+	height: 10%;
+    width: 10%;
+    background: #DD9C3CB0;
+    left: 26%;
+    top: 145%;
+    border-radius: 25px;
+}
+
+.c1
+{
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 26%;
+    top: 145%;
+    border-radius: 25px;
+    opacity: 0;
+}
+
+.c1:hover
+{
+	visibility: visible;
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 26%;
+    top: 145%;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+
+
+
+
+
+
+.Suro
+{
+	position: absolute;
+	height: 10%;
+    width: 10%;
+    background: #DD9C3CB0;
+    left: 31%;
+    top: 120%;
+    border-radius: 25px;
+}
+
+.su1
+{
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 31%;
+    top: 120%;
+    border-radius: 25px;
+    opacity: 0;
+}
+
+.su1:hover
+{
+	visibility: visible;
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 31%;
+    top: 120%;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+
+
+
+
+
+.Catatumbo
+{
+	position: absolute;
+	height: 10%;
+    width: 10%;
+    background: #DD9C3CB0;
+    left: 40%;
+    top: 110%;
+    border-radius: 25px;
+}
+
+.ct1
+{
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 40%;
+    top: 110%;
+    border-radius: 25px;
+    opacity: 0;
+}
+
+.ct1:hover
+{
+	visibility: visible;
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 40%;
+    top: 110%;
+    border-radius: 25px;
+    opacity: 1;
+}
+
+
+
+
+
+.Cauca
+{
+	position: absolute;
+	height: 10%;
+    width: 10%;
+    background: #DD9C3CB0;
+    left: 25%;
+    top: 155%;
+    border-radius: 25px;
+}
+
+.ca1
+{
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 25%;
+    top: 155%;
+    border-radius: 25px;
+    opacity: 0;
+}
+
+.ca1:hover
+{
+	visibility: visible;
+	position: absolute;
+	height: 50%;
+    width: 50%;
+    background: #DD9C3CB0;
+    left: 35%;
+    top: 155%;
+    border-radius: 25px;
+    opacity: 1;
+}
